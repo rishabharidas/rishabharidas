@@ -1,2 +1,3 @@
-# Rishab Haridas
-about
+# **Rishab Haridas** (:hamburger::computer::tea:)
+#DEVELOPER; #UIDESIGNER; #FANBOY;
+
