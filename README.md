@@ -1,2 +1,2 @@
-# Rishab-Haridas-
+# Rishab Haridas
 about
