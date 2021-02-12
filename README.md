@@ -4,6 +4,7 @@
  
 ### Now Playing 🎧
 
-[![Spotify](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P?si=ced0c8d649e943d1)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
 <br/>
 ---
