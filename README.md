@@ -1,6 +1,5 @@
 # **Rishab Haridas** (:hamburger::computer::tea:)
-<br>
- #DEVELOPER; #UIDESIGNER; #FANBOY;
+#DEVELOPER; #UIDESIGNER; #FANBOY;
 <br->
  
 ### Now Playing 🎧
