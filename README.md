@@ -1,6 +1,7 @@
 # **Rishab Haridas** (:hamburger::computer::tea:)
 #DEVELOPER; #DESIGNER; #FANBOY;
 <br->
+ [![TG chat](https://img.shields.io/badge/Support-Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&&labelColor=1B4F72)](https://t.me/rishabharidas)
 <p align="left"> <a href="https://t.me/rishabharidas" target="blank"><img src="https://img.shields.io/badge/.-rishabharidas-blue?logo=telegram&style=for-the-badge" alt="rishabharidas" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
