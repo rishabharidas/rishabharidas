@@ -9,4 +9,4 @@
 <a href="https://instagram.com/rishabharidas" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" alt="rishabharidas" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rishabharidas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="100" alt="rishabharidas" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rishabharidas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="70" alt="rishabharidas" /></a></p><br><br>
