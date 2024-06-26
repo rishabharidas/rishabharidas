@@ -1,6 +1,19 @@
-# **Rishab Haridas**
-#DEVELOPER; #DESIGNER;
-<br->
+<div style="position: relative;">
+  <img align="center" src="1643042144025.jpeg" style="opacity: 60%"/>
+  <span 
+    style="position: absolute; top: 50%; right: 40%; transform: translate(-40%,-40%); font-size: 36px; color: #ffffff; font-weight:700;"
+  >
+    Rishab Haridas
+  </span>
+  <span 
+    style="position: absolute; top: 70%; right: 46%; transform: translate(-40%,-40%); font-family: monospace; font-weight:600;"
+  >
+    #DEVELOPER; #DESIGNER;
+  </span>
+</div>
+
+<br>
+
 <p align="left"> <a href="https://t.me/rishabharidas" target="blank"><img src="https://img.shields.io/badge//-rishabharidas-blue?logo=telegram&style=for-the-badge" alt="rishabharidas" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
