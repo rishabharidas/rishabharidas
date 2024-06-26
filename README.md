@@ -10,7 +10,7 @@
 <a href="https://instagram.com/rishabharidas" target="blank"><img align="center" src="https://img.shields.io/badge/-white?style=flat&logo=instagram" alt="rishabharidas" height="30" width="40" /></a>
 
 
-#### Technologies I use:<br>
+#### 🧑‍💻 Tech I work on:<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
