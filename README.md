@@ -9,20 +9,6 @@
   <img src="assests/mario.gif" height=20>
 </p>
 
-#### 🛰️ Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/rishabharidas" target="blank" >
-    <img align="center" src="https://img.shields.io/badge/-black?style=flat&logo=x&logoColor=white" alt="rishabharidas" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rishabharidas" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-blue?style=flat&logo=linkedin" alt="rishab-haridas-32b758136" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rishabharidas" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-white?style=flat&logo=instagram" alt="rishabharidas" height="30" width="40" />
-  </a>
-</p> 
-
 
 #### 🧑‍💻 Tech I work on:<br>
 
