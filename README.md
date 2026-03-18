@@ -1,7 +1,3 @@
-<img align="center" src="assests/readme-head.webp"/>
-
-<br>
-
 <p align="left"> 
   <a href="https://t.me/rishabharidas" target="blank">
     <img src="https://img.shields.io/badge/-rishabharidas-white?logo=telegram&style=social" alt="rishabharidas" />
