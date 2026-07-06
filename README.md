@@ -1,5 +1,7 @@
-<img src="assests/mario.gif" height="35" style="vertical-align: middle; margin-right: 8px;">
-rishabharidas
+<span>
+  <img src="assests/mario.gif" height="30">
+  <b>rishabharidas</b>
+</span>
 
 ### 🧑‍💻 Tech I work on:
 
