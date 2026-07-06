@@ -1,10 +1,5 @@
-<p align="left"> 
-  <a href="https://t.me/rishabharidas" target="blank">
-    <img src="https://img.shields.io/badge/-rishabharidas-white?logo=telegram&style=social" alt="rishabharidas" />
-  </a>
-  <img src="assests/mario.gif" height=20>
-</p>
-
+<img src="assests/github-header-banner.png" style="border-radius: 12">
+<br>
 
 #### 🧑‍💻 Tech I work on:<br>
 
@@ -17,10 +12,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br/>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![threejs](https://img.shields.io/badge/-three.js-00000F?style=flat-square&logo=three.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
-![EDGE|DB](https://img.shields.io/badge/EgdeDB-3a906c?style=flat-square&logo=edgedb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 #### 🕊️ Support:
@@ -29,7 +24,3 @@
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="100" alt="rishabharidas" /></a>
 </p>
 <br>
-<hr/>
-<p align="start">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rishabharidas&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=jupyter%20notebook"/>
-</p>
