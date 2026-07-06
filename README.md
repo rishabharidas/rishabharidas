@@ -1,5 +1,8 @@
-<img src="assests/github-header-banner.png" style="border-radius: 12">
-<br>
+<p align="left"> 
+  <img src="assests/mario.gif" height="35" style="vertical-align: middle; margin-right: 8px;">
+  <b style="font-size: 32px; vertical-align: middle;">rishabharidas</b>
+</p>
+
 
 #### 🧑‍💻 Tech I work on:<br>
 
