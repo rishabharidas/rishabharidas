@@ -1,10 +1,7 @@
-<p align="left"> 
-  <img src="assests/mario.gif" height="35" style="vertical-align: middle; margin-right: 8px;">
-  <b style="font-size: 32px; vertical-align: middle;">rishabharidas</b>
-</p>
+<img src="assests/mario.gif" height="35" style="vertical-align: middle; margin-right: 8px;">
+rishabharidas
 
-
-#### 🧑‍💻 Tech I work on:<br>
+### 🧑‍💻 Tech I work on:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,9 +18,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-#### 🕊️ Support:
-<p>
+### 🕊️ Support:
+
 <a href="https://www.buymeacoffee.com/rishabharidas">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="100" alt="rishabharidas" /></a>
-</p>
-<br>
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="100" alt="rishabharidas" />
+</a>
