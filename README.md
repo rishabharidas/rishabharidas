@@ -1,6 +1,9 @@
-### <img src="assets/mario.gif" height="38" alt="mario"> Hi, I'm rishab
+<div> 
+  <code>Hi, I'm rishab</code>
+  <img src="assests/mario.gif" height="38" alt="mario">
+<div>
 
-A developer working on fun projects as a hobby.
+##### A developer working on fun projects as a hobby.
 
 ---
 ### 🛠️ Skills
